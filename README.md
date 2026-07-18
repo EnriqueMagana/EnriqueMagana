@@ -2,142 +2,89 @@
 
 # Jesús Enrique Magaña
 
-### Desarrollador Full Stack Jr. · Creador de productos digitales · Aprendiz de arquitectura SaaS
+### Desarrollador Full Stack Jr. · Laravel · Livewire · Flutter · Arquitectura SaaS
 
 <p>
-Construyo aplicaciones web y móviles mientras continúo fortaleciendo mis conocimientos en desarrollo de software, producto, automatización y modelos de negocio digitales.
+Construyo productos SaaS reales de principio a fin: backend, base de datos, tiempo real, integraciones de pago/mensajería, apps móviles y despliegue en producción. Actualmente busco una oportunidad para seguir creciendo como desarrollador dentro de un equipo.
 </p>
 
 [![Perfil](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
 [![WorldFit](https://img.shields.io/badge/Proyecto-WorldFit-F4B400?style=for-the-badge&logo=googlefit&logoColor=000000)](https://worldfit.com.mx/)
-![Disponible](https://img.shields.io/badge/Disponible-para_colaborar-22C55E?style=for-the-badge&logo=handshake&logoColor=white)
+![Disponible](https://img.shields.io/badge/Disponible-para_contratación-22C55E?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
 ---
 
-## Sobre mí
+## 👋 Sobre mí
 
-Soy desarrollador Full Stack Jr. con interés en crear soluciones que conecten la tecnología con las necesidades reales de un negocio.
+Soy desarrollador Full Stack Jr., pero con experiencia práctica construyendo y **manteniendo en producción** plataformas SaaS multi-tenant reales para negocios de fitness y restaurantes: **WorldFit** y **Tastely**.
 
-He participado en la construcción de plataformas SaaS, sistemas administrativos, puntos de venta, aplicaciones móviles y herramientas de automatización. Además del código, me interesa comprender cómo funciona un producto: a quién ayuda, qué problema resuelve, cómo puede generar ingresos y qué necesita para crecer.
+No solo escribo código: participo en todo el ciclo de vida del producto — desde el modelo de negocio y la propuesta de valor, hasta el diseño de interfaz, el desarrollo, el despliegue y la resolución de problemas en servidores de producción. Esto significa que puedo integrarme rápido a un equipo y aportar valor más allá de una sola capa del stack.
 
-Actualmente continúo aprendiendo sobre arquitectura de software, seguridad, experiencia de usuario, inteligencia artificial, despliegues y validación de modelos de negocio.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Lo que hago
-
-- Desarrollo aplicaciones con Laravel y PHP.
-- Diseño bases de datos con MySQL.
-- Creo interfaces web responsivas.
-- Consumo y desarrollo APIs REST.
-- Desarrollo aplicaciones móviles con Flutter.
-- Integro pagos, correo y notificaciones.
-- Trabajo con Git y repositorios remotos.
-- Analizo flujos y procesos empresariales.
-
-</td>
-<td width="50%" valign="top">
-
-### Lo que estoy aprendiendo
-
-- Arquitectura limpia y modular.
-- Pruebas automatizadas.
-- Seguridad para aplicaciones SaaS.
-- Optimización y escalabilidad.
-- DevOps y despliegue continuo.
-- Inteligencia artificial aplicada.
-- Diseño y validación de productos.
-- Métricas y crecimiento de negocios digitales.
-
-</td>
-</tr>
-</table>
+**Lo que me diferencia como junior:**
+- Ya he lanzado y opero productos SaaS reales con usuarios, no solo proyectos de práctica.
+- Manejo el stack completo: backend, base de datos, tiempo real (WebSockets), frontend, mobile e infraestructura.
+- Tengo criterio de producto: entiendo por qué se construye una función, no solo cómo.
+- Buen ojo para UI/UX: interfaces cuidadas, con identidad visual y experiencia premium.
 
 ---
 
-## Proyectos y productos
+## 🚀 Proyectos destacados
 
-| Proyecto | Tipo | Descripción | Trabajo realizado |
-|---|---|---|---|
-| **WorldFit** | SaaS para gimnasios | Plataforma para administrar membresías, miembros, entrenadores, nutrición, rutinas, acceso, inventario, ventas y reportes. | Backend con Laravel, base de datos, permisos, APIs, landing, módulos administrativos, experiencia de usuario y aplicación móvil en Flutter. |
-| **Tastely** | SaaS gastronómico | Solución para digitalizar operaciones de restaurantes y negocios de alimentos. | Concepto de producto, modelo funcional, punto de venta, pedidos, inventario, cocina, clientes, reportes y administración. |
-| **Calle Sabor** | Sistema para restaurante | Aplicación Laravel utilizada para administrar la operación de un restaurante. | Migraciones, base de datos, despliegue, Git, repositorios, mantenimiento y resolución de problemas en producción. |
-| **CubitTech** | Marca de desarrollo | Proyecto orientado a crear soluciones digitales para empresas. | Identidad de producto, propuesta comercial, desarrollo web, diseño de servicios y estrategia de soluciones SaaS. |
-| **Aplicación WorldFit** | Aplicación móvil | App para que miembros de gimnasios consulten rutinas, progreso, nutrición, tienda, beneficios y acceso. | Maquetación en Flutter, navegación, onboarding, autenticación, consumo de API, assets, personajes y experiencia móvil. |
-| **Kiosco de autoservicio** | Producto para restaurantes | Interfaz similar a los kioscos de cadenas de comida para realizar pedidos sin asistencia. | Flujo de compra, catálogo, carrito, confirmación, QR de seguimiento y propuesta visual SaaS. |
-| **Monitor de tickets** | Extensión de navegador | Herramienta para actualizar un panel, detectar nuevos tickets y mostrar alertas. | JavaScript, manipulación del DOM, observadores, temporizadores, almacenamiento de configuración y notificaciones. |
-| **Watch faces** | Diseño para smartwatch | Interfaces para relojes con estilos enfocados en programación y pantallas OLED. | Diseño visual, componentes, assets SVG/PNG y trabajo con Watch Face Studio. |
+### WorldFit — SaaS de gestión para gimnasios
+Plataforma completa para administrar membresías, miembros, entrenadores, nutrición, rutinas, control de acceso, inventario y reportes.
+- **Stack:** Laravel 11, Livewire 3, MySQL, arquitectura multi-tenant.
+- Módulo administrativo completo, sistema de permisos, directorio SEO de gimnasios (`/gimnasios`) con datos estructurados Schema.org y páginas por ciudad.
+- Diagnóstico y corrección de problemas de producción (caché agresiva de CDN, conflictos de despliegue).
+- App móvil complementaria en **Flutter** (Riverpod, go_router) con onboarding y autenticación animados.
+- 🔗 [worldfit.com.mx](https://worldfit.com.mx/)
+
+### Tastely — SaaS multi-tenant para restaurantes
+Solución para digitalizar la operación completa de un restaurante: pedidos, cocina, delivery y atención al cliente por WhatsApp.
+- **Stack:** Laravel, Livewire, Laravel Reverb (WebSockets) para eventos en tiempo real.
+- Integración con **WhatsApp Business Cloud API** (Meta), incluyendo flujo de Embedded Signup y evaluación de proveedores (Kapso Sandbox vs. Meta directo) con arquitectura abstraída para producción.
+- **KDS** (Kitchen Display System) interactivo para cocina en tiempo real.
+- Dashboard de repartidor con mapa, flujo de viaje completo, selección de pago y resumen de ganancias.
+- Planeación de migración a VPS (Hetzner / Hostinger KVM con Ploi.io) para soportar WebSockets en producción.
+
+### Calle Sabor — Sistema de operación para restaurante en producción
+Aplicación Laravel usada activamente para administrar la operación de un restaurante real.
+- Migraciones, base de datos, control de versiones y **despliegue en Hostinger**.
+- Resolución de incidentes reales de producción: symlinks rotos, permisos SSH, conflictos de `git pull`.
+
+### Kiosco de autoservicio — Prototipo de pedidos sin asistencia
+Interfaz tipo cadena de comida rápida para pedidos en punto de venta.
+- Flujo completo: catálogo, carrito, confirmación de pedido y seguimiento por QR.
+- Entregable portable en un solo archivo HTML, con marca ficticia y 9 pantallas de flujo completo.
+
+### La Terraza Gourmet — Menú digital y sistema operativo del restaurante
+- Motor de temas, integración con WhatsApp Cloud API, seguimiento de pedidos en tiempo real con Reverb.
+- Módulo de nómina con check-in y generación de recibos de pago en PDF.
+
+### Cotizador freelance (softwarecorp)
+- Asistente para generar cotizaciones de proyectos con PDFs de marca usando **jsPDF**.
 
 ---
 
-## Competencias técnicas
+## 🛠️ Competencias técnicas
 
-| Área | Conocimientos y herramientas |
+| Área | Tecnologías |
 |---|---|
-| **Backend** | PHP, Laravel, Eloquent ORM, Livewire, Laravel Sanctum, validaciones, migraciones, seeders y colas |
-| **Frontend** | HTML5, CSS3, JavaScript, Blade, Bootstrap, Tailwind CSS, Alpine.js y Vite |
-| **Mobile** | Flutter, Dart, consumo de APIs, navegación, diseño responsivo, Firebase y notificaciones |
-| **Bases de datos** | MySQL, modelado relacional, consultas SQL, índices, restricciones, migraciones y respaldos |
-| **Integraciones** | Stripe, Resend, SMTP, Firebase Cloud Messaging, QR, TOTP, webhooks y APIs REST |
-| **Control de versiones** | Git, GitHub, Bitbucket, ramas, commits, remotos, SSH y resolución de conflictos |
-| **Infraestructura** | Linux, Apache, Nginx, Hostinger, VPS, variables de entorno y despliegues Laravel |
-| **Diseño de producto** | UX/UI, flujos de usuario, onboarding, paneles administrativos y diseño responsive |
-| **Herramientas visuales** | Rive, SVG, edición de assets, prototipado y diseño de interfaces |
-| **Inteligencia artificial** | Uso de asistentes de IA para análisis, documentación, diseño, depuración y automatización |
+| **Backend** | PHP, Laravel (9–11), Eloquent ORM, Livewire 3, Laravel Reverb (WebSockets), Sanctum, colas, migraciones |
+| **Frontend** | HTML5, CSS3, JavaScript, Blade, Alpine.js, Bootstrap, Tailwind CSS, Vite |
+| **Mobile** | Flutter, Dart, Riverpod, go_router, Lucide Icons, Firebase, consumo de APIs REST |
+| **Bases de datos** | MySQL, modelado relacional, arquitecturas multi-tenant con base compartida, consultas SQL, respaldos |
+| **Tiempo real** | Laravel Reverb, WebSockets, eventos en vivo (pedidos, cocina, tracking) |
+| **Integraciones** | WhatsApp Business Cloud API (Meta), Kapso, Stripe, Resend/SMTP, Firebase Cloud Messaging, jsPDF, generación de QR, TOTP |
+| **Control de versiones** | Git, GitHub, Bitbucket, ramas, resolución de conflictos, SSH |
+| **Infraestructura / despliegue** | Linux, Apache/Nginx, Hostinger (shared hosting), migración a VPS (Hetzner, Ploi.io), variables de entorno |
+| **Diseño de producto / UX-UI** | Flujos de usuario, onboarding, paneles administrativos, diseño responsive, estética premium/oscura |
+| **IA aplicada** | Uso de asistentes de IA para arquitectura, depuración, documentación y prototipado rápido |
 
 ---
 
-## Tecnologías
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,tailwind,flutter,dart,firebase,git,github,linux,vscode&perline=8" alt="Tecnologías y herramientas" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Rive](https://img.shields.io/badge/Rive-1D1D1D?style=flat-square&logo=rive&logoColor=white)
-
-</div>
-
----
-
-## Conocimientos de producto y negocio
-
-No solo me interesa desarrollar funcionalidades. También busco comprender por qué se construyen y cómo aportan valor.
-
-| Competencia | Aplicación |
-|---|---|
-| **Modelos SaaS** | Planes mensuales y anuales, pruebas, niveles de servicio y productos multiempresa |
-| **Propuesta de valor** | Identificación del problema, usuario objetivo, beneficios y diferenciadores |
-| **Monetización** | Suscripciones, pagos recurrentes, comisiones y venta de servicios |
-| **Validación de producto** | Priorización de módulos, producto mínimo viable y retroalimentación de usuarios |
-| **Experiencia del cliente** | Registro, onboarding, activación, soporte, retención y renovación |
-| **Procesos empresariales** | Digitalización de ventas, inventario, accesos, membresías, pedidos y reportes |
-| **Marketing de producto** | Landing pages, mensajes comerciales, llamados a la acción y presentación de beneficios |
-| **Métricas** | Conversión, usuarios activos, ingresos recurrentes, retención y uso de funcionalidades |
-
----
-
-## Cómo abordo un proyecto
+## 🧠 Cómo abordo un proyecto
 
 ```mermaid
 flowchart LR
@@ -153,36 +100,33 @@ flowchart LR
 
 ---
 
-## Experiencia por áreas
+## 📊 Experiencia por áreas
 
 ```mermaid
 pie showData
     title Áreas trabajadas en mis proyectos
-    "Backend y APIs" : 30
-    "Bases de datos" : 20
-    "Frontend y UX/UI" : 18
-    "Producto y negocio" : 14
-    "Aplicaciones móviles" : 10
-    "Despliegue e infraestructura" : 8
+    "Backend y APIs" : 28
+    "Tiempo real (WebSockets)" : 12
+    "Bases de datos" : 18
+    "Frontend y UX/UI" : 16
+    "Producto y negocio" : 12
+    "Aplicaciones móviles" : 8
+    "Despliegue e infraestructura" : 6
 ```
 
 > Esta gráfica representa las áreas en las que he trabajado con mayor frecuencia; no es una medición oficial de nivel.
 
 ---
 
-## En qué estoy trabajando
+## 🎯 Lo que busco
 
-- Mejorar la arquitectura y seguridad de **WorldFit**.
-- Desarrollar la aplicación móvil de la plataforma con **Flutter**.
-- Crear mejores flujos para rutinas, nutrición, membresías y acceso.
-- Investigar catálogos y APIs de ejercicios.
-- Diseñar productos digitales orientados a gimnasios y restaurantes.
-- Fortalecer mis conocimientos en pruebas, CI/CD e infraestructura.
-- Aprender a integrar inteligencia artificial de forma útil y responsable.
+Estoy buscando **incorporarme a un equipo de desarrollo** donde pueda seguir creciendo técnicamente, aportar lo que ya sé de Laravel/Livewire y producto, y aprender buenas prácticas de ingeniería (testing, CI/CD, arquitectura limpia) de la mano de desarrolladores con más experiencia.
+
+Si tu equipo necesita a alguien que ya sabe llevar un producto de la idea al despliegue en producción — y que además cuida el diseño — hablemos.
 
 ---
 
-## Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
 <div align="center">
 
@@ -206,33 +150,15 @@ pie showData
 
 ---
 
-## Objetivos profesionales
-
-<table>
-<tr>
-<td width="33%" align="center">
-<strong>Corto plazo</strong><br><br>
-Fortalecer mis bases técnicas y publicar proyectos mejor documentados.
-</td>
-<td width="33%" align="center">
-<strong>Mediano plazo</strong><br><br>
-Participar en equipos donde pueda aprender, aportar y trabajar con buenas prácticas.
-</td>
-<td width="33%" align="center">
-<strong>Largo plazo</strong><br><br>
-Crear productos tecnológicos sostenibles que resuelvan problemas reales.
-</td>
-</tr>
-</table>
-
----
-
-## Contacto
+## 📬 Contacto
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
 [![Sitio web](https://img.shields.io/badge/Sitio-WorldFit-F4B400?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://worldfit.com.mx/)
+[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+
+**¿Buscas a alguien que convierta ideas en productos funcionando? Hablemos.**
 
 </div>
 
@@ -240,8 +166,6 @@ Crear productos tecnológicos sostenibles que resuelvan problemas reales.
 
 <div align="center">
 
-### Desarrollo software mientras aprendo a convertir ideas en productos.
-
-<sub>Perfil en crecimiento · Aprendizaje continuo · Proyectos reales</sub>
+<sub>Perfil en crecimiento · Proyectos SaaS reales en producción · Disponible para nuevas oportunidades</sub>
 
 </div>
