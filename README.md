@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Jesús%20Enrique%20Magaña%20Dzul&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20SaaS%20Builder%20·%20Laravel%20y%20Flutter%20Engineer&descAlignY=58&descSize=16&descColor=94A3B8" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Jesús%20Enrique%20Magaña%20Dzul&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20en%20Sistemas%20Computacionales&descAlignY=58&descSize=16&descColor=94A3B8" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Laravel+%2B+Livewire+%2B+Flutter;2+SaaS+en+producci%C3%B3n;Arquitecturas+multi-tenant;Pagos%2C+tiempo+real+e+infraestructura;Disponible+para+tiempo+completo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Dise%C3%B1ador+UX%2FUI;Desarrollador+Backend;Desarrollador+Mobile;SaaS+Builder;Arquitecto+de+Software" alt="Typing SVG" />
 
 <p>📍 Ticul, Yucatán, México</p>
 
