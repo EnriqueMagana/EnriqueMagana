@@ -170,9 +170,6 @@ pie showData
 ## 🎯 Lo que busco
 
 Estoy en transición activa hacia un rol de **Full Stack Developer de tiempo completo**. Ya construí, lancé y mantengo dos productos SaaS en producción por mi cuenta — ahora busco un equipo donde pueda aportar esa experiencia end-to-end y seguir creciendo junto a otros desarrolladores.
-
-Si tu equipo necesita a alguien que ya sabe llevar un producto de la idea al despliegue en producción — y que además cuida el diseño — hablemos.
-
 ---
 
 <div align="center">
