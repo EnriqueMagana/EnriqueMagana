@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Jesús%20Enrique%20Magaña%20Dzul&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20en%20Sistemas%20Computacionales&descAlignY=58&descSize=16&descColor=94A3B8" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Jesús%20Enrique%20Magaña%20Dzul&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20en%20Sistemas%20Computacionales&descAlignY=58&descSize=16&descColor=94A3B8" alt="Encabezado de perfil" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Dise%C3%B1ador+UX%2FUI;Desarrollador+Backend;Desarrollador+Mobile;SaaS+Builder;Arquitecto+de+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+Jr.;Laravel+%2B+Livewire+%2B+Flutter;Productos+SaaS+y+procesos+de+negocio;Backend%2C+mobile+e+infraestructura;Disponible+para+tiempo+completo" alt="Presentación animada" />
 
-<p>📍 Ticul, Yucatán, México</p>
+<p>
+<img src="https://img.shields.io/badge/Ubicación-Ticul%2C%20Yucatán%2C%20México-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación">
+</p>
 
 [![Email](https://img.shields.io/badge/Email-J.Enrique__Magana%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:J.Enrique_Magana@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529971170395)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-enrique-maga%C3%B1a-dzul-812588225)
 [![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
-![Disponible](https://img.shields.io/badge/Disponible-tiempo_completo-22C55E?style=for-the-badge&logo=handshake&logoColor=white)
+![Disponibilidad](https://img.shields.io/badge/Disponible-tiempo_completo-22C55E?style=for-the-badge&logo=handshake&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=EnriqueMagana&label=Visitas%20al%20perfil&color=22C55E&style=flat-square" alt="Visitas al perfil" />
 
@@ -18,24 +20,52 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
-Full Stack Developer con **más de 3 años** de experiencia diseñando, desarrollando y desplegando plataformas SaaS multi-tenant en producción. Especializado en **Laravel, Livewire, PHP, PostgreSQL/MySQL y Flutter**, con dominio de arquitectura de APIs REST, integración de pasarelas de pago (Stripe, Conekta, Mercado Pago) vía webhooks, y administración de infraestructura Linux/VPS (Nginx, SSL).
+Soy Full Stack Developer Jr. con más de tres años de experiencia entre desarrollo profesional y proyectos propios. He trabajado principalmente con **Laravel, PHP, Livewire, MySQL y Flutter**, construyendo aplicaciones web, APIs, paneles administrativos y soluciones móviles.
 
-Soy **fundador y desarrollador único de dos productos SaaS propios en producción** — WorldFit (gestión de gimnasios) y Tastely (gestión de restaurantes) — con responsabilidad de extremo a extremo: arquitectura, backend, frontend, app móvil, despliegue y mantenimiento.
+Soy fundador y desarrollador de **WorldFit** y **Tastely**, dos productos SaaS que me han permitido participar en todo el ciclo de creación de software: análisis del problema, definición del producto, diseño de base de datos, desarrollo, integración de servicios, despliegue y mantenimiento.
 
-Actualmente en **transición activa hacia un rol de Full Stack Developer de tiempo completo**: combino mi puesto en Macropay con el desarrollo diario de mis productos SaaS propios, y estoy listo para dedicar mi jornada completa a un equipo de desarrollo.
+También me interesa comprender la parte de negocio detrás de cada producto: propuesta de valor, procesos operativos, experiencia del usuario, monetización, automatización y mejora continua.
 
-**Lo que aporto desde el día uno:**
-- Ya he lanzado y opero productos SaaS reales con usuarios, no solo proyectos de práctica.
-- Manejo el stack completo: backend, base de datos, tiempo real (WebSockets), frontend, mobile e infraestructura.
-- Experiencia real integrando pagos, autenticación OAuth, arquitectura offline-first y multi-tenant.
-- Criterio de producto: entiendo por qué se construye una función, no solo cómo.
-- Buen ojo para UI/UX: interfaces cuidadas, con identidad visual y experiencia premium.
+Actualmente busco dar el siguiente paso hacia un rol de Full Stack Developer de tiempo completo, donde pueda aportar la experiencia práctica adquirida en mis proyectos, aprender de otros desarrolladores y continuar fortaleciendo mis conocimientos técnicos y de producto.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Lo que puedo aportar
+
+- Experiencia construyendo productos reales.
+- Desarrollo backend con Laravel y PHP.
+- Diseño de bases de datos y APIs REST.
+- Interfaces administrativas con Livewire.
+- Desarrollo móvil con Flutter.
+- Integraciones de pagos y servicios externos.
+- Diagnóstico de incidencias en producción.
+- Criterio funcional y orientación a producto.
+
+</td>
+<td width="50%" valign="top">
+
+### Lo que estoy fortaleciendo
+
+- Pruebas unitarias y de integración.
+- Arquitectura limpia y patrones de diseño.
+- CI/CD con GitHub Actions.
+- Contenedores con Docker.
+- Seguridad para aplicaciones SaaS.
+- Monitoreo y observabilidad.
+- Optimización de rendimiento.
+- Trabajo colaborativo en equipos de desarrollo.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Stack tecnológico
+## Stack tecnológico
 
 <div align="center">
 
@@ -45,150 +75,236 @@ Actualmente en **transición activa hacia un rol de Full Stack Developer de tiem
 
 ---
 
-## 🚀 Proyectos SaaS propios
+## Proyectos destacados
 
-### WorldFit — SaaS de Gestión para Gimnasios
-**Fundador & Desarrollador Full Stack** · 2024 — Presente
-**Stack:** Laravel · Livewire · PostgreSQL/MySQL · Flutter · Firebase · REST APIs · Nginx/VPS
+### WorldFit — SaaS para la gestión de gimnasios
 
-- Arquitecté un sistema **multi-tenant desde cero** con aislamiento completo de datos por empresa/sucursal, incluyendo membresías con facturación automatizada, control de acceso y módulo de Punto de Venta (POS).
-- Desarrollé la app móvil con **Flutter** y arquitectura **offline-first** (Drift + sincronización en segundo plano), con autenticación OAuth y notificaciones push.
-- Integré procesamiento de pagos con **Stripe, Conekta y Mercado Pago** vía webhooks para activación automática de membresías; construí panel para entrenadores y nutriólogos.
-- Diseñé la estrategia SEO del directorio `/gimnasios`: reestructuración de URLs, datos estructurados Schema.org y páginas por ciudad.
-- Desplegué y administré toda la infraestructura en VPS Linux (Nginx + PostgreSQL/MySQL + SSL), con backups automatizados y monitoreo de uptime.
+**Fundador y desarrollador Full Stack** · 2024 — Presente  
+**Stack:** Laravel · Livewire · MySQL/PostgreSQL · Flutter · Firebase · REST APIs · Nginx/VPS
 
-🔗 [worldfit.com.mx](https://worldfit.com.mx/)
+WorldFit es una plataforma orientada a digitalizar la operación de gimnasios mediante módulos administrativos, servicios para miembros y una aplicación móvil.
 
-### Tastely — SaaS de Gestión para Restaurantes
-**Fundador & Desarrollador Full Stack** · 2024 — Presente
-**Stack:** Laravel · Livewire · Laravel Reverb (WebSockets) · MySQL · REST APIs · Nginx/VPS
+**Trabajo realizado:**
 
-- Desarrollé un sistema integral de operaciones (menús, comandas en tiempo real, mesas, cocina) con control de inventario, alertas de stock y módulo POS con cierre diario.
-- Integración con **WhatsApp Business Cloud API** (Meta), incluyendo flujo de Embedded Signup y evaluación de proveedores (Kapso Sandbox vs. Meta directo) con arquitectura abstraída para producción.
-- **KDS** (Kitchen Display System) interactivo y dashboard de repartidor con mapa, flujo de viaje completo y resumen de ganancias, todo alimentado por eventos en tiempo real vía Reverb.
-- Desplegué el entorno de producción en VPS Linux con SSL y backups incrementales.
+- Diseñé la estructura funcional del producto y sus principales módulos.
+- Desarrollé la administración de membresías, clientes, sucursales, entrenadores, nutrición, rutinas, inventario y punto de venta.
+- Implementé separación de información por negocio y sucursal.
+- Construí APIs REST para la aplicación móvil.
+- Trabajé en autenticación, roles, permisos, códigos QR y TOTP.
+- Integré servicios de pago, correo y notificaciones.
+- Desarrollé la aplicación móvil con Flutter.
+- Configuré despliegues, variables de entorno, SSL, base de datos y servidor.
 
-### Restaurante Calle Sabor — Sitio Web + Sistema Administrativo
-*2023*
-**Stack:** Laravel · MySQL · JavaScript · Nginx/VPS
-Sitio institucional con panel administrativo a medida, optimización de consultas de base de datos y resolución de incidentes reales de producción (symlinks, permisos SSH, despliegues).
+[![Visitar WorldFit](https://img.shields.io/badge/Visitar-WorldFit-F4B400?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://worldfit.com.mx/)
 
 ---
 
-## 💼 Experiencia profesional
+### Tastely — SaaS para la gestión de restaurantes
 
-**Analista de Mesa de Ayuda | Macropay**
-*Nov 2023 — Presente*
-- Gestiono y resuelvo tickets de soporte técnico diarios, ejecutando consultas SQL sobre bases de datos de producción para diagnóstico de incidencias.
-- Consumo y pruebo REST APIs con Postman para validación de integraciones, y administro el ciclo completo de accesos en sistemas internos.
-- *Tecnologías: SQL · MySQL · Postman · REST APIs · Office 365*
+**Fundador y desarrollador Full Stack** · 2024 — Presente  
+**Stack:** Laravel · Livewire · Laravel Reverb · MySQL · REST APIs · Nginx/VPS
 
-**Desarrollador Web Jr. | Digitrafico**
-*2023*
-- Desarrollé aplicaciones web dinámicas con Laravel y PHP en ciclo completo (requerimientos, diseño, implementación y despliegue), con integraciones a APIs REST externas.
-- *Stack: Laravel · PHP · JavaScript · jQuery · HTML5 · CSS3 · Bootstrap · SQL · Git · GitHub*
+Tastely es un producto enfocado en organizar procesos operativos de restaurantes y negocios gastronómicos.
+
+**Trabajo realizado:**
+
+- Diseñé módulos para menús, pedidos, mesas, cocina, inventario, clientes y punto de venta.
+- Implementé actualizaciones en tiempo real mediante WebSockets.
+- Trabajé en un Kitchen Display System para el seguimiento de comandas.
+- Diseñé flujos para repartidores, pedidos y estados de entrega.
+- Analicé integraciones con WhatsApp Business Cloud API.
+- Preparé la estructura del producto para operar como servicio SaaS.
+- Configuré el entorno de producción, SSL y respaldos.
 
 ---
 
-## 🛠️ Competencias técnicas
+### Restaurante Calle Sabor — Sitio y sistema administrativo
 
-| Área | Tecnologías |
+**Desarrollo y mantenimiento** · 2023  
+**Stack:** Laravel · MySQL · JavaScript · Git · VPS
+
+- Desarrollo de sitio institucional y panel administrativo.
+- Mantenimiento de base de datos y migraciones.
+- Configuración de repositorios GitHub y Bitbucket.
+- Resolución de problemas de despliegue, permisos, SSH y enlaces simbólicos.
+- Diagnóstico de incidencias reales en producción.
+
+---
+
+## Impacto y experiencia práctica
+
+| Indicador | Resultado |
 |---|---|
-| **Backend** | PHP, Laravel, Eloquent ORM, Livewire 3, Laravel Reverb (WebSockets), Sanctum, OAuth 2.0, migraciones, colas |
-| **Frontend** | HTML5, CSS3, JavaScript, Blade, Alpine.js, Bootstrap, Tailwind CSS, Vite |
-| **Mobile** | Flutter, Dart, arquitectura offline-first (Drift), Riverpod, go_router, Lucide Icons, Firebase/Firestore |
-| **Bases de datos** | PostgreSQL, MySQL, modelado relacional, arquitecturas multi-tenant, consultas SQL, respaldos |
-| **Pagos** | Stripe, Conekta, Mercado Pago, integración vía webhooks |
-| **Tiempo real** | Laravel Reverb, WebSockets, eventos en vivo (pedidos, cocina, tracking) |
-| **Integraciones** | WhatsApp Business Cloud API (Meta), Kapso, Resend/SMTP, Firebase Cloud Messaging, jsPDF, QR, TOTP |
-| **Control de versiones** | Git, GitHub, Bitbucket, CI/CD, resolución de conflictos, SSH |
-| **Infraestructura** | Linux/Ubuntu, Nginx, administración de VPS, SSL/TLS, Docker, Hostinger, Hetzner, Ploi.io |
-| **Diseño de producto / UX-UI** | Flujos de usuario, onboarding, paneles administrativos, diseño responsive, estética premium/oscura |
-| **Metodología** | MVC, Metodologías Ágiles, arquitectura SaaS multi-tenant |
+| Productos SaaS propios | 2 productos en desarrollo y operación |
+| Sectores trabajados | Fitness, gimnasios, restaurantes y soporte técnico |
+| Plataformas desarrolladas | Web administrativa, landing pages y aplicación móvil |
+| Responsabilidades | Análisis, producto, backend, frontend, base de datos, despliegue y mantenimiento |
+| Integraciones | Pagos, correo, notificaciones, QR, TOTP, APIs y WebSockets |
+| Entornos | Desarrollo local, hosting compartido y VPS Linux |
+| Enfoque | Resolver procesos reales y convertirlos en flujos digitales |
+
+> Las cifras de usuarios, ventas o transacciones se agregarán cuando existan métricas públicas y verificables.
 
 ---
 
-## 🎓 Educación y certificaciones
+## Retos técnicos que he enfrentado
 
-**Ingeniería en Sistemas Computacionales**
-Instituto Tecnológico del Sur del Estado de Yucatán · 2018 — 2023
-
-Certificaciones: MySQL Server, CSS & JavaScript (Udemy) · Introducción a SQL, Introducción a Java, Java I (Fundaula) — 2022
+| Reto | Solución aplicada |
+|---|---|
+| Separar información entre negocios y sucursales | Modelado relacional, filtros por contexto y validaciones de acceso |
+| Actualizar pedidos y comandas en tiempo real | Eventos de aplicación y comunicación mediante WebSockets |
+| Procesar pagos y activaciones | Integración de webhooks y validación de estados |
+| Mantener funcionalidad móvil con conexión limitada | Persistencia local y sincronización progresiva |
+| Controlar accesos y funcionalidades | Roles, permisos, autenticación, QR y TOTP |
+| Desplegar aplicaciones Laravel | Configuración de servidor, permisos, variables de entorno, SSL y base de datos |
+| Resolver fallos en producción | Revisión de logs, consultas SQL, caché, migraciones y configuración |
+| Organizar sistemas con muchos módulos | Separación por dominios, servicios, componentes y flujos funcionales |
 
 ---
 
-## 🧠 Cómo abordo un proyecto
+## Experiencia profesional
+
+### Analista de Mesa de Ayuda — Macropay
+
+**Noviembre de 2023 — Presente**
+
+- Gestión y seguimiento de tickets de soporte técnico.
+- Diagnóstico de incidencias mediante consultas SQL.
+- Validación de integraciones y endpoints con Postman.
+- Administración del ciclo de accesos en sistemas internos.
+- Comunicación con usuarios y seguimiento de problemas operativos.
+
+**Tecnologías:** SQL · MySQL · Postman · REST APIs · Office 365
+
+### Desarrollador Web Jr. — Digitrafico
+
+**2023**
+
+- Desarrollo de aplicaciones web con Laravel y PHP.
+- Implementación de interfaces con JavaScript, jQuery y Bootstrap.
+- Integración con APIs REST externas.
+- Participación en requerimientos, desarrollo, pruebas y despliegue.
+- Control de versiones con Git y GitHub.
+
+**Stack:** Laravel · PHP · JavaScript · jQuery · HTML5 · CSS3 · Bootstrap · SQL · Git
+
+---
+
+## Competencias técnicas
+
+| Área | Tecnologías y conocimientos |
+|---|---|
+| **Backend** | PHP, Laravel, Eloquent ORM, Livewire, Sanctum, migraciones, seeders, validaciones y colas |
+| **Frontend** | HTML5, CSS3, JavaScript, Blade, Alpine.js, Bootstrap, Tailwind CSS y Vite |
+| **Mobile** | Flutter, Dart, navegación, consumo de APIs, persistencia local, Firebase y notificaciones |
+| **Bases de datos** | MySQL, PostgreSQL, modelado relacional, consultas SQL, índices, restricciones y respaldos |
+| **Integraciones** | Stripe, Conekta, Mercado Pago, Resend, SMTP, Firebase Cloud Messaging, QR y TOTP |
+| **Tiempo real** | Laravel Reverb, WebSockets, eventos para pedidos, cocina y seguimiento |
+| **Control de versiones** | Git, GitHub, Bitbucket, ramas, commits, remotos, SSH y resolución de conflictos |
+| **Infraestructura** | Linux, Ubuntu, Nginx, Apache, VPS, SSL/TLS, Hostinger y variables de entorno |
+| **Producto y UX/UI** | Flujos de usuario, onboarding, paneles administrativos, diseño responsive y definición de MVP |
+| **Metodologías** | MVC, trabajo por módulos, documentación técnica y fundamentos de metodologías ágiles |
+
+---
+
+## Conocimientos de producto y negocio
+
+| Competencia | Aplicación práctica |
+|---|---|
+| **Modelos SaaS** | Planes, suscripciones, niveles de servicio y productos multiempresa |
+| **Propuesta de valor** | Identificación del problema, usuario objetivo, beneficios y diferenciadores |
+| **Monetización** | Pagos recurrentes, planes mensuales y anuales y servicios adicionales |
+| **Validación de producto** | Priorización de módulos, MVP y retroalimentación de usuarios |
+| **Experiencia del cliente** | Registro, onboarding, activación, soporte, retención y renovación |
+| **Procesos empresariales** | Digitalización de ventas, inventario, accesos, membresías, pedidos y reportes |
+| **Marketing de producto** | Landing pages, mensajes comerciales, llamados a la acción y presentación de beneficios |
+| **Métricas** | Conversión, usuarios activos, ingresos recurrentes, retención y uso de funcionalidades |
+
+---
+
+## Prácticas de desarrollo
+
+- Separación de responsabilidades mediante servicios y componentes.
+- Uso de migraciones y seeders para reproducir estructuras de datos.
+- Validación de información en frontend y backend.
+- Aplicación de roles y permisos para restringir funcionalidades.
+- Manejo de credenciales mediante variables de entorno.
+- Control de versiones con ramas y commits descriptivos.
+- Diagnóstico de errores mediante logs y consultas SQL.
+- Documentación de instalaciones, comandos y despliegues.
+- Optimización de consultas y revisión de índices.
+- Diseño responsive orientado a diferentes dispositivos.
+
+---
+
+## Cómo abordo un proyecto
 
 ```mermaid
 flowchart LR
-    subgraph Descubrimiento[" 🔍 Descubrimiento "]
-        direction LR
-        A(["💡 Problema real"]) --> B(["🧑‍🤝‍🧑 Análisis del usuario"])
-    end
-
-    subgraph Estrategia[" 📊 Estrategia "]
-        direction LR
-        C(["💰 Modelo de negocio"]) --> D(["🎯 Definición del MVP"])
-    end
-
-    subgraph Diseño[" 🎨 Diseño "]
-        direction LR
-        E(["🧭 Diseño de flujos"])
-    end
-
-    subgraph Construcción[" ⚙️ Construcción "]
-        direction LR
-        F(["👨‍💻 Desarrollo"]) --> G(["✅ Pruebas"])
-    end
-
-    subgraph Operación[" 🚀 Operación "]
-        direction LR
-        H(["📦 Despliegue"]) --> I(["📈 Medición y mejora"])
-    end
-
-    B --> C
-    D --> E
-    E --> F
-    G --> H
-    I -. "🔁 Itera con datos reales" .-> A
-
-    classDef discovery fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#fff
-    classDef strategy fill:#0F172A,stroke:#22C55E,stroke-width:2px,color:#fff
-    classDef design fill:#0F172A,stroke:#F59E0B,stroke-width:2px,color:#fff
-    classDef build fill:#0F172A,stroke:#A855F7,stroke-width:2px,color:#fff
-    classDef ops fill:#0F172A,stroke:#EF4444,stroke-width:2px,color:#fff
-
-    class A,B discovery
-    class C,D strategy
-    class E design
-    class F,G build
-    class H,I ops
+    A[Problema real] --> B[Usuario y contexto]
+    B --> C[Propuesta de valor]
+    C --> D[Definición del MVP]
+    D --> E[Diseño de flujos]
+    E --> F[Desarrollo]
+    F --> G[Pruebas]
+    G --> H[Despliegue]
+    H --> I[Medición y mejora]
+    I -. Iteración .-> A
 ```
-
-> El ciclo se retroalimenta: cada despliegue genera datos reales que vuelven a informar la siguiente iteración del producto.
 
 ---
 
-## 📊 Experiencia por áreas
+## Arquitectura general de mis proyectos
 
 ```mermaid
-pie showData
-    title Áreas trabajadas en mis proyectos
-    "Backend y APIs" : 26
-    "Tiempo real (WebSockets)" : 10
-    "Bases de datos" : 16
-    "Pagos e integraciones" : 10
-    "Frontend y UX/UI" : 14
-    "Producto y negocio" : 10
-    "Aplicaciones móviles" : 8
-    "Despliegue e infraestructura" : 6
-```
+flowchart LR
+    U[Usuario] --> WEB[Aplicación web]
+    U --> APP[Aplicación Flutter]
 
-> Esta gráfica representa las áreas en las que he trabajado con mayor frecuencia; no es una medición oficial de nivel.
+    WEB --> API[Backend Laravel]
+    APP --> API
+
+    API --> AUTH[Autenticación y permisos]
+    API --> DB[(MySQL / PostgreSQL)]
+    API --> EVENTS[Eventos y WebSockets]
+    API --> PAYMENTS[Pasarelas de pago]
+    API --> PUSH[Notificaciones]
+    API --> MAIL[Correo electrónico]
+```
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Educación y formación
+
+### Ingeniería en Sistemas Computacionales
+
+**Instituto Tecnológico del Sur del Estado de Yucatán**  
+2018 — 2023
+
+### Cursos y certificaciones
+
+- MySQL Server.
+- CSS y JavaScript.
+- Introducción a SQL.
+- Introducción a Java.
+- Java I.
+
+---
+
+## Información adicional
+
+| Aspecto | Detalle |
+|---|---|
+| **Ubicación** | Ticul, Yucatán, México |
+| **Disponibilidad** | Tiempo completo |
+| **Modalidad** | Remoto, híbrido o presencial |
+| **Idioma principal** | Español |
+| **Inglés** | Lectura técnica y aprendizaje continuo |
+| **Intereses** | SaaS, fitness, restaurantes, automatización, mobile y productos digitales |
+
+---
+
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -204,39 +320,27 @@ pie showData
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EnriqueMagana&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EnriqueMagana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trofeos de GitHub" />
-
-</div>
-
 ---
 
-## 🎯 Lo que busco
+## Lo que busco
 
-Estoy en una transición activa hacia un rol de Full Stack Developer de tiempo completo. He construido, lanzado y actualmente mantengo dos productos SaaS en producción de forma independiente. Ahora busco integrarme a un equipo donde pueda aportar mi experiencia de principio a fin, colaborar con otros desarrolladores y seguir fortaleciendo mis habilidades técnicas y de producto.
+Estoy en una transición activa hacia un rol de Full Stack Developer de tiempo completo. He construido, lanzado y actualmente mantengo dos productos SaaS de forma independiente. Ahora busco integrarme a un equipo donde pueda aportar mi experiencia de principio a fin, colaborar con otros desarrolladores y seguir fortaleciendo mis habilidades técnicas y de producto.
 
 ---
 
 <div align="center">
 
-## 📬 Contacto
+## Contacto
 
 [![Email](https://img.shields.io/badge/Email-J.Enrique__Magana%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:J.Enrique_Magana@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-9971170395-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529971170395)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-enrique-maga%C3%B1a-dzul-812588225)
 [![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
 
-**¿Buscas a alguien que convierta ideas en productos funcionando en producción? Hablemos.**
+**Desarrollo software mientras continúo aprendiendo a convertir ideas en productos útiles.**
 
-<sub>2 productos SaaS propios en producción · 3+ años construyendo software full stack · Disponible para tiempo completo</sub>
+<sub>Productos SaaS propios · Experiencia full stack · Disponible para tiempo completo</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=100&section=footer" alt="Pie de página" />
 
 </div>
