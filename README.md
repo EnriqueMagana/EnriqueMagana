@@ -1,22 +1,19 @@
 <div align="center">
 
-# Jesús Enrique Magaña Dzul
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Jesús%20Enrique%20Magaña%20Dzul&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20SaaS%20Builder%20·%20Laravel%20%26%20Flutter%20Engineer&descAlignY=58&descSize=16&descColor=94A3B8" alt="Header" />
 
-### Full Stack Developer · Ingeniero en sistemas computacionales
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Laravel+%2B+Livewire+%2B+Flutter;2+SaaS+en+producci%C3%B3n;Arquitecturas+multi-tenant;Pagos%2C+tiempo+real+e+infraestructura;Disponible+para+tiempo+completo" alt="Typing SVG" />
 
-<p>
-Ticul, Yucatán, México
-</p>
-
-<p>
-Diseño, desarrollo y despliego plataformas SaaS multi-tenant en producción. Fundador y desarrollador único de <strong>WorldFit</strong> y <strong>Tastely</strong>, con responsabilidad de extremo a extremo: arquitectura, backend, frontend, app móvil, infraestructura y mantenimiento.
-</p>
+<p>📍 Ticul, Yucatán, México</p>
 
 [![Email](https://img.shields.io/badge/Email-J.Enrique__Magana%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:J.Enrique_Magana@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529971170395)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-enrique-maga%C3%B1a-dzul-812588225)
 [![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 [![WorldFit](https://img.shields.io/badge/Proyecto-WorldFit-F4B400?style=for-the-badge&logo=googlefit&logoColor=000000)](https://worldfit.com.mx/)
 ![Disponible](https://img.shields.io/badge/Disponible-tiempo_completo-22C55E?style=for-the-badge&logo=handshake&logoColor=white)
+
+<img src="https://komarev.com/ghpvc/?username=EnriqueMagana&label=Visitas%20al%20perfil&color=22C55E&style=flat-square" alt="Visitas al perfil" />
 
 </div>
 
@@ -146,14 +143,6 @@ pie showData
 
 ---
 
-## 🎯 Lo que busco
-
-Estoy en transición activa hacia un rol de **Full Stack Developer de tiempo completo**. Ya construí, lancé y mantengo dos productos SaaS en producción por mi cuenta — ahora busco un equipo donde pueda aportar esa experiencia end-to-end y seguir creciendo junto a otros desarrolladores.
-
-Si tu equipo necesita a alguien que ya sabe llevar un producto de la idea al despliegue en producción — y que además cuida el diseño — hablemos.
-
----
-
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -178,23 +167,28 @@ Si tu equipo necesita a alguien que ya sabe llevar un producto de la idea al des
 
 ---
 
-## 📬 Contacto
+## 🎯 Lo que busco
 
-<div align="center">
+Estoy en transición activa hacia un rol de **Full Stack Developer de tiempo completo**. Ya construí, lancé y mantengo dos productos SaaS en producción por mi cuenta — ahora busco un equipo donde pueda aportar esa experiencia end-to-end y seguir creciendo junto a otros desarrolladores.
 
-[![Email](https://img.shields.io/badge/Email-J.Enrique__Magana%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:J.Enrique_Magana@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Sitio web](https://img.shields.io/badge/Sitio-WorldFit-F4B400?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://worldfit.com.mx/)
-
-**¿Buscas a alguien que convierta ideas en productos funcionando en producción? Hablemos.**
-
-</div>
+Si tu equipo necesita a alguien que ya sabe llevar un producto de la idea al despliegue en producción — y que además cuida el diseño — hablemos.
 
 ---
 
 <div align="center">
 
+## 📬 Contacto
+
+[![Email](https://img.shields.io/badge/Email-J.Enrique__Magana%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:J.Enrique_Magana@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-9971170395-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529971170395)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-enrique-maga%C3%B1a-dzul-812588225)
+[![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
+[![Sitio web](https://img.shields.io/badge/Sitio-WorldFit-F4B400?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://worldfit.com.mx/)
+
+**¿Buscas a alguien que convierta ideas en productos funcionando en producción? Hablemos.**
+
 <sub>2 productos SaaS propios en producción · 3+ años construyendo software full stack · Disponible para tiempo completo</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=100&section=footer" alt="Footer" />
 
 </div>
