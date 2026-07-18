@@ -10,7 +10,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529971170395)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-enrique-maga%C3%B1a-dzul-812588225)
 [![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
-[![WorldFit](https://img.shields.io/badge/Proyecto-WorldFit-F4B400?style=for-the-badge&logo=googlefit&logoColor=000000)](https://worldfit.com.mx/)
 ![Disponible](https://img.shields.io/badge/Disponible-tiempo_completo-22C55E?style=for-the-badge&logo=handshake&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=EnriqueMagana&label=Visitas%20al%20perfil&color=22C55E&style=flat-square" alt="Visitas al perfil" />
@@ -180,7 +179,6 @@ Estoy en transición activa hacia un rol de **Full Stack Developer de tiempo com
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-9971170395-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529971170395)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-enrique-maga%C3%B1a-dzul-812588225)
 [![GitHub](https://img.shields.io/badge/GitHub-EnriqueMagana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnriqueMagana)
-[![Sitio web](https://img.shields.io/badge/Sitio-WorldFit-F4B400?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://worldfit.com.mx/)
 
 **¿Buscas a alguien que convierta ideas en productos funcionando en producción? Hablemos.**
 
