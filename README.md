@@ -35,6 +35,16 @@ Actualmente en **transición activa hacia un rol de Full Stack Developer de tiem
 
 ---
 
+## 💻 Stack tecnológico
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,postgres,mysql,firebase,js,html,css,tailwind,bootstrap,docker,linux,nginx,git,github,vscode&perline=9" alt="Stack tecnológico" />
+
+</div>
+
+---
+
 ## 🚀 Proyectos SaaS propios
 
 ### WorldFit — SaaS de Gestión para Gimnasios
@@ -111,15 +121,51 @@ Certificaciones: MySQL Server, CSS & JavaScript (Udemy) · Introducción a SQL, 
 
 ```mermaid
 flowchart LR
-    A[Problema real] --> B[Análisis del usuario]
-    B --> C[Modelo de negocio]
-    C --> D[Definición del MVP]
-    D --> E[Diseño de flujos]
-    E --> F[Desarrollo]
-    F --> G[Pruebas]
-    G --> H[Despliegue]
-    H --> I[Medición y mejora]
+    subgraph Descubrimiento[" 🔍 Descubrimiento "]
+        direction LR
+        A(["💡 Problema real"]) --> B(["🧑‍🤝‍🧑 Análisis del usuario"])
+    end
+
+    subgraph Estrategia[" 📊 Estrategia "]
+        direction LR
+        C(["💰 Modelo de negocio"]) --> D(["🎯 Definición del MVP"])
+    end
+
+    subgraph Diseño[" 🎨 Diseño "]
+        direction LR
+        E(["🧭 Diseño de flujos"])
+    end
+
+    subgraph Construcción[" ⚙️ Construcción "]
+        direction LR
+        F(["👨‍💻 Desarrollo"]) --> G(["✅ Pruebas"])
+    end
+
+    subgraph Operación[" 🚀 Operación "]
+        direction LR
+        H(["📦 Despliegue"]) --> I(["📈 Medición y mejora"])
+    end
+
+    B --> C
+    D --> E
+    E --> F
+    G --> H
+    I -. "🔁 Itera con datos reales" .-> A
+
+    classDef discovery fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#fff
+    classDef strategy fill:#0F172A,stroke:#22C55E,stroke-width:2px,color:#fff
+    classDef design fill:#0F172A,stroke:#F59E0B,stroke-width:2px,color:#fff
+    classDef build fill:#0F172A,stroke:#A855F7,stroke-width:2px,color:#fff
+    classDef ops fill:#0F172A,stroke:#EF4444,stroke-width:2px,color:#fff
+
+    class A,B discovery
+    class C,D strategy
+    class E design
+    class F,G build
+    class H,I ops
 ```
+
+> El ciclo se retroalimenta: cada despliegue genera datos reales que vuelven a informar la siguiente iteración del producto.
 
 ---
 
@@ -161,6 +207,12 @@ pie showData
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=EnriqueMagana&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EnriqueMagana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trofeos de GitHub" />
 
 </div>
 
